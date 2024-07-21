@@ -1,9 +1,9 @@
 # Python-For-Pure-Math
 Class Assignmesnt on a jupyter Notebook
-##                                                                   $$AFRICAN INSTITUTE FOR$$\n
-##                                                                     $$MATHEMATICAL SCIENCES$$\n
-##                                                                     $$(AIMS RWANDA, KIGALI)$$\n
-###                                                                     $$Python Assignment 1$$
+## $$AFRICAN INSTITUTE FOR$$
+## $$MATHEMATICAL SCIENCES$$
+## $$(AIMS RWANDA, KIGALI)$$
+### $$Python Assignment 1$$
 
 ## Overview
 
